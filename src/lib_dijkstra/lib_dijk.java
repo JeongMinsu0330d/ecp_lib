@@ -1,6 +1,6 @@
 package lib_dijkstra;
 
-public class Main {
+public class lib_dijk {
 	
 	
 
